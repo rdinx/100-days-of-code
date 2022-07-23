@@ -23,3 +23,7 @@ Link to work: https://www.notion.so/Day-Four-a46c34c35e774ee394c419ef0444d756
 Progress: Today I had other things on so there was no reading or other work, just 1hr and 15 minutes coding the freecodecamp exercises - finished one from yesterday and started a new one.  The new one introduced css a bit more including classes and rgb function which I quite enjoyed.  Again another good day!
 Thoughts: I am really enjoying what I am learning now as it is a bit familiar, but I am also getting into new (to me) areas which is very exciting - does that make me some kind of “geek”?  Looking forward to whatever comes next.
 Link to work: https://cyclic-makemake-754.notion.site/Day-Five-4f20d4d177ab4409a7c4fff3d8ae1612
+### R1D6
+Progress: I made good progress again today, just an hour took me to the end of the colored markers exercise on freecodecamp.org.  It is so amazing to see what you can do with some code and this is only the beginning.  Learned about hsl, hex and alpha channel/opacity and linear gradient.  Roll on tomorrow……
+Thoughts: I am quite impressed with my result during this exercise, a couple of times I made silly mistakes, but I am learning every day and I love it!  So glad I decided to restart my journey to learn more, the more I learn, the more I want to know.
+Links to work: https://cyclic-makemake-754.notion.site/Day-Six-0cdd79c4637b4068940df313c83750f0
