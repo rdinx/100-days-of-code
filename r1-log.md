@@ -27,3 +27,11 @@ Link to work: https://cyclic-makemake-754.notion.site/Day-Five-4f20d4d177ab4409a
 Progress: I made good progress again today, just an hour took me to the end of the colored markers exercise on freecodecamp.org.  It is so amazing to see what you can do with some code and this is only the beginning.  Learned about hsl, hex and alpha channel/opacity and linear gradient.  Roll on tomorrow……
 Thoughts: I am quite impressed with my result during this exercise, a couple of times I made silly mistakes, but I am learning every day and I love it!  So glad I decided to restart my journey to learn more, the more I learn, the more I want to know.
 Links to work: https://cyclic-makemake-754.notion.site/Day-Six-0cdd79c4637b4068940df313c83750f0
+### r1D
+Progress: Today I planned to only code for an hour.  I started with a new exercise from freecodecamp.org (a registration form).  When I was just hitting the hour mark, I was stumped with the given instruction, of course, I couldn’t leave it till tomorrow.  So, I had to research a little bit but I got there, and in two hours (and 5 minutes, but who is counting?) I had finished the whole form.
+Thoughts: So happy to have completed my first week.  I have refreshed what I already knew of html and stylesheets but have built on it so much already.  Looking foward to next week, although it has taken a lot of time to get adjusted to revision and learning, plus coding for an hour (at least) every day.  I am enjoying everything so far, only because I am winning (revision is easier than learning)!
+Links to work: https://cyclic-makemake-754.notion.site/Day-Seven-a9fea2ff44614419b4fa8ce6e3b7358e
+### r1D
+Progress: 
+Thoughts: 
+Links to work: 
