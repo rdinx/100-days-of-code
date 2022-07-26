@@ -27,10 +27,18 @@ Link to work: https://cyclic-makemake-754.notion.site/Day-Five-4f20d4d177ab4409a
 Progress: I made good progress again today, just an hour took me to the end of the colored markers exercise on freecodecamp.org.  It is so amazing to see what you can do with some code and this is only the beginning.  Learned about hsl, hex and alpha channel/opacity and linear gradient.  Roll on tomorrow……
 Thoughts: I am quite impressed with my result during this exercise, a couple of times I made silly mistakes, but I am learning every day and I love it!  So glad I decided to restart my journey to learn more, the more I learn, the more I want to know.
 Links to work: https://cyclic-makemake-754.notion.site/Day-Six-0cdd79c4637b4068940df313c83750f0
-### r1D
+### r1D7
 Progress: Today I planned to only code for an hour.  I started with a new exercise from freecodecamp.org (a registration form).  When I was just hitting the hour mark, I was stumped with the given instruction, of course, I couldn’t leave it till tomorrow.  So, I had to research a little bit but I got there, and in two hours (and 5 minutes, but who is counting?) I had finished the whole form.
 Thoughts: So happy to have completed my first week.  I have refreshed what I already knew of html and stylesheets but have built on it so much already.  Looking foward to next week, although it has taken a lot of time to get adjusted to revision and learning, plus coding for an hour (at least) every day.  I am enjoying everything so far, only because I am winning (revision is easier than learning)!
 Links to work: https://cyclic-makemake-754.notion.site/Day-Seven-a9fea2ff44614419b4fa8ce6e3b7358e
+### r1D8
+Progress: Well after a whole week of refreshing my knowledge and learning some new skills, I was ready for a great week.  Instead of just focusing on what I had been doing, I went to a real life project.  I have been working on my sisters website, unfortunately, even though the progress I made over the last week was helpful overall, and the html I was putting into Wordpress was validated on a few websites, there was still an issue.  I spent over 2 hours working on it today but had to leave it as I wasn’t getting anywhere.  Hopefully, fresh eyes and focus next time will prove fruitful.
+Thoughts: I’m pretty disappointed with how things went today.  I was very much looking forward to a second great week learning and coding.  However, I need to learn a bit more before going back to the project I worked on today.
+Links to work: 
+### r1D9
+Progress: Today was ok.  I was working on my real life project again today and actually got a page to look like a real webpage lol.  Slow going and frustrating because I don’t know everything yet, and wonder why it’s not so easy to just put that item in the place I want.
+Thoughts: I have a lot to learn.  The html, css are ok, even the bigs of js I have been looking at along the way.  What gets me is all the extras included on webpages for fonts and webkit items.
+Links to work: https://cyclic-makemake-754.notion.site/Day-Nine-d2357b8574bc461081b67cc9efb4bc60
 ### r1D
 Progress: 
 Thoughts: 
