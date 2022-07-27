@@ -39,6 +39,22 @@ Links to work:
 Progress: Today was ok.  I was working on my real life project again today and actually got a page to look like a real webpage lol.  Slow going and frustrating because I don’t know everything yet, and wonder why it’s not so easy to just put that item in the place I want.
 Thoughts: I have a lot to learn.  The html, css are ok, even the bigs of js I have been looking at along the way.  What gets me is all the extras included on webpages for fonts and webkit items.
 Links to work: https://cyclic-makemake-754.notion.site/Day-Nine-d2357b8574bc461081b67cc9efb4bc60
+### r1D10
+Progress: Today, was a good day.  I left the real life project and came back to freecodecamp.  The exercise today was different as it was a list of user requirements rather than a step by step tutorial.  I started with a blank page and after only 30 minutes of coding from my own knowledge I had created a full survey form, with all the elements required, it passed all the tests, except two I knew weren’t going to pass.  I wanted to just write it all without looking at notes and was so impressed with myself.  Next the css to make it all look pretty, that took longer, I actually spent another 2.5 hours reading and coding, and it is not finished yet.
+Thoughts: I’m happier today than the first two days this week.  I went back to the exercises on freecodecamp.org and was very pleased with my progress.  Only 30 minutes to code a form survey page from scatch.  I did spend another 2.5 hours on the css, reading and coding, but am so excited to be further ahead than I was only a week ago.  There’s is so much opportunity to use these skills and I’m looking forward to where this journey takes me.
+Links to work: https://cyclic-makemake-754.notion.site/Day-Ten-fda2b006cc004ed39b858e0e76e19607
+### r1D
+Progress: 
+Thoughts: 
+Links to work: 
+### r1D
+Progress: 
+Thoughts: 
+Links to work: 
+### r1D
+Progress: 
+Thoughts: 
+Links to work: 
 ### r1D
 Progress: 
 Thoughts: 
