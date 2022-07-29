@@ -43,14 +43,14 @@ Links to work: https://cyclic-makemake-754.notion.site/Day-Nine-d2357b8574bc4610
 Progress: Today, was a good day.  I left the real life project and came back to freecodecamp.  The exercise today was different as it was a list of user requirements rather than a step by step tutorial.  I started with a blank page and after only 30 minutes of coding from my own knowledge I had created a full survey form, with all the elements required, it passed all the tests, except two I knew weren’t going to pass.  I wanted to just write it all without looking at notes and was so impressed with myself.  Next the css to make it all look pretty, that took longer, I actually spent another 2.5 hours reading and coding, and it is not finished yet.
 Thoughts: I’m happier today than the first two days this week.  I went back to the exercises on freecodecamp.org and was very pleased with my progress.  Only 30 minutes to code a form survey page from scatch.  I did spend another 2.5 hours on the css, reading and coding, but am so excited to be further ahead than I was only a week ago.  There’s is so much opportunity to use these skills and I’m looking forward to where this journey takes me.
 Links to work: https://cyclic-makemake-754.notion.site/Day-Ten-fda2b006cc004ed39b858e0e76e19607
-### r1D
-Progress: 
-Thoughts: 
-Links to work: 
-### r1D
-Progress: 
-Thoughts: 
-Links to work: 
+### r1D11
+Progress: I finished the survey form exercise, played around with css to make the form look better.  I liked the idea of a gradient background so I went with that, which meant I needed to make the input boxes transparent, so I now know about opacity.  I think it turned out ok, progress is progress.  I’m hoping next time I make a survey form it will be much better and more in keeping with today’s styles.
+Thoughts: I’m happy to have finished the exercise today.  I did need to refer to notes and Google a few times.  I could have spent hours/days even trying to make it better, however, I want to learn more and think moving on would be a better use of my time.
+Links to work: [https://cyclic-makemake-754.notion.site/Day-Eleven-550732196a98455e9e196e3d775833e4](https://bit.ly/3bbqm0y)
+### r1D12
+Progress: Lots of progress today.  Started a new exercise, finished it quickly, then started and finished another two on freecodecamp.org.  Learning new things now, css boxes (filter, blur and transform), css flex (flex-object, flex-direction, object-fit) along with dividers, indent and span, a lot for one day but I’m enjoying it so much.  I ended up coding for 2 hours and 50 minutes as I wanted to finish the exercises so I could start fresh again tomorrow.
+Thoughts: Overall, I’m really impressed with what can be achieved with a little bit of code, as well as my own knowledge and being able to build on it, so far so good.  My head is spinning with ideas of things I could do and would like to do, but I’m going to keep on track and just keep focusing on this consistent daily learning approach.
+Links to work: https://bit.ly/3zhqFPA
 ### r1D
 Progress: 
 Thoughts: 
