@@ -51,10 +51,10 @@ Links to work: [https://cyclic-makemake-754.notion.site/Day-Eleven-550732196a984
 Progress: Lots of progress today.  Started a new exercise, finished it quickly, then started and finished another two on freecodecamp.org.  Learning new things now, css boxes (filter, blur and transform), css flex (flex-object, flex-direction, object-fit) along with dividers, indent and span, a lot for one day but I’m enjoying it so much.  I ended up coding for 2 hours and 50 minutes as I wanted to finish the exercises so I could start fresh again tomorrow.
 Thoughts: Overall, I’m really impressed with what can be achieved with a little bit of code, as well as my own knowledge and being able to build on it, so far so good.  My head is spinning with ideas of things I could do and would like to do, but I’m going to keep on track and just keep focusing on this consistent daily learning approach.
 Links to work: https://bit.ly/3zhqFPA
-### r1D
-Progress: 
-Thoughts: 
-Links to work: 
+### r1D13
+Progress: Not a lot of progress today, sore head and lack of sleep don’t make for good learning environment!  I did do about an hour and a half (because I was googling a few items, and I wanted to finish one section).  I did come across new things today like screen reader css and making web more accessible with roles and aria-labelledby.
+Thoughts: Not feeling the best today, sore head, however I did commit to 100 days and I have been enjoying everything so far and don’t want to give up.  I am doing this for myself so I need to do the best I can.
+Links to work: https://bit.ly/3PONAsD
 ### r1D
 Progress: 
 Thoughts: 
