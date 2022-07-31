@@ -55,6 +55,34 @@ Links to work: https://bit.ly/3zhqFPA
 Progress: Not a lot of progress today, sore head and lack of sleep don’t make for good learning environment!  I did do about an hour and a half (because I was googling a few items, and I wanted to finish one section).  I did come across new things today like screen reader css and making web more accessible with roles and aria-labelledby.
 Thoughts: Not feeling the best today, sore head, however I did commit to 100 days and I have been enjoying everything so far and don’t want to give up.  I am doing this for myself so I need to do the best I can.
 Links to work: https://bit.ly/3PONAsD
+### r1D14
+Progress: Made good progress today, mainly css, as I made use of pseudo elements and targeting nested elements.  I was hoping to finish this exercise, but having done 1 hour and 20 minutes, the questions were still appearing so I just left it at this point.
+Thoughts: Can’t believe I am two weeks in already.  The time has flown and I have enjoyed every minute so far.  I have learned so much and build on my existing knowledge, even though it was so long ago (15 years or more), it is all very relevant as html and css are still making the web.
+Links to work: https://bit.ly/3oIODy9
+### r1D
+Progress: 
+Thoughts: 
+Links to work: 
+### r1D
+Progress: 
+Thoughts: 
+Links to work: 
+### r1D
+Progress: 
+Thoughts: 
+Links to work: 
+### r1D
+Progress: 
+Thoughts: 
+Links to work: 
+### r1D
+Progress: 
+Thoughts: 
+Links to work: 
+### r1D
+Progress: 
+Thoughts: 
+Links to work: 
 ### r1D
 Progress: 
 Thoughts: 
