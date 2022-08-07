@@ -59,6 +59,34 @@ Links to work: https://bit.ly/3PONAsD
 Progress: Made good progress today, mainly css, as I made use of pseudo elements and targeting nested elements.  I was hoping to finish this exercise, but having done 1 hour and 20 minutes, the questions were still appearing so I just left it at this point.
 Thoughts: Can’t believe I am two weeks in already.  The time has flown and I have enjoyed every minute so far.  I have learned so much and build on my existing knowledge, even though it was so long ago (15 years or more), it is all very relevant as html and css are still making the web.
 Links to work: https://bit.ly/3oIODy9
+### r1D15
+Progress: Only worked for an hour today, however, didn’t get much done as I was too sore to concentrate.
+Thoughts: This is exactly why I haven’t or wouldn’t want to work for someone else, I don’t want to let anyone down.
+Links to work: https://cyclic-makemake-754.notion.site/Day-Fifteen-5715987c33d34cc399eb76352a4a60be
+### r1D16
+Progress: Worked on accessibility quiz, ended up reading and re-reading about selectors, in the end it was <select> I was looking for.  Anyway, I got the exercise finished which feels good.
+Thoughts: Glad I was able to get something done today.
+Links to work: https://cyclic-makemake-754.notion.site/Day-Sixteen-3d206024e5e84a18980bfd720da10e8b
+### r1D17
+Progress: No progress at all today.  I was ill.
+Thoughts: None, too ill to think about anything today.
+Links to work: 
+### r1D18
+Progress: Quite happy with this page.  Freecodecamp.org again today, had to create a tribute page with certain basic elements and styles.  Finished it in an hour so very pleased with that.
+Thoughts: Glad to be back to it today.  I’m going to try another hour later to make up for yesterday though.
+Links to work: https://cyclic-makemake-754.notion.site/Day-Eighteen-f6366cf1e5b847b796f9a09dc2e24258
+### r1D19
+Progress: I did well today.  Started a new exercise on freecodecamp.org and finished it in 2 hours (to make up for the hour I missed yesterday).  It was a good exercise in that I was going over tables, which I had covered before, but the css and using pseudo classes etc was new so good to get the whole exercise done in one sitting.  I enjoyed watching all the elements move on the preview while writing the code.
+Thoughts: Very happy I got some work done today.  I am happy with today’s exercise as it was reinforcing what I previously knew and recently learned.  Happy to be back on track.
+Links to work: https://bit.ly/3JAgpXp
+### r1D20
+Progress: I made good progress today, two very different projects on freecodecamp.org.  Rather than focusing on text and graphics, it was more about shapes and positioning.  I learned about z-index and incorporating font icons.
+Thoughts: Really enjoyed these exercises, they were totally different but very effective at getting the idea across.
+Links to work: https://bit.ly/3Q0nKSq
+### r1D21
+Progress: Worked on something a bit different today.  Watched a five day series on html and css essentials on YouTube and created (the beginning of) a portfolio.  I enjoyed watching someone just thinking and typing without a plan.  I aspire to be like that!
+Thoughts: Thinking about what I should work on next week.  I have been doing well for these first 3 weeks using freecodecamp.org exercises every day, however, I don’t know whether to finish out 4 weeks on it then move on or move on now.
+Links to work: 
 ### r1D
 Progress: 
 Thoughts: 
