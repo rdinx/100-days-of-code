@@ -87,10 +87,10 @@ Links to work: https://bit.ly/3Q0nKSq
 Progress: Worked on something a bit different today.  Watched a five day series on html and css essentials on YouTube and created (the beginning of) a portfolio.  I enjoyed watching someone just thinking and typing without a plan.  I aspire to be like that!
 Thoughts: Thinking about what I should work on next week.  I have been doing well for these first 3 weeks using freecodecamp.org exercises every day, however, I don’t know whether to finish out 4 weeks on it then move on or move on now.
 Links to work: 
-### r1D
-Progress: 
-Thoughts: 
-Links to work: 
+### r1D22
+Progress: Slow progress today.  Started a new freecodecamp.org exercise, creating technical documentation page, with side navbar.  First time I have tried a side navigation, so it was interesting to see how it built up.
+Thoughts: I decided to give another week to html and css before moving on to a bit of JS. 
+Links to work: https://bit.ly/3JHVNwj
 ### r1D
 Progress: 
 Thoughts: 
