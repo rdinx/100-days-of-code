@@ -91,10 +91,10 @@ Links to work:
 Progress: Slow progress today.  Started a new freecodecamp.org exercise, creating technical documentation page, with side navbar.  First time I have tried a side navigation, so it was interesting to see how it built up.
 Thoughts: I decided to give another week to html and css before moving on to a bit of JS. 
 Links to work: https://bit.ly/3JHVNwj
-### r1D
-Progress: 
-Thoughts: 
-Links to work: 
+### r1D23
+Progress: Really enjoyed this freecodecamp.org exercise today.  It is the first time I’ve used variables in css and this exericse was a great way to understand and see visually what happens with subtle changes.  Loving it - one of my favourite projects so far.
+Thoughts: It is fascinating to me what can be achieved with just text.  This exercise focused on creating coloured shapes and introduced using variables to change colours at a certain screen size.  I’m really looking forward to what else I will learn on this journey.
+Links to work: https://bit.ly/3Ac8Lj0
 ### r1D
 Progress: 
 Thoughts: 
