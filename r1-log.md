@@ -93,21 +93,25 @@ Thoughts: I decided to give another week to html and css before moving on to a b
 Links to work: https://bit.ly/3JHVNwj
 ### r1D23
 Progress: Really enjoyed this freecodecamp.org exercise today.  It is the first time I’ve used variables in css and this exericse was a great way to understand and see visually what happens with subtle changes.  Loving it - one of my favourite projects so far.
-Thoughts: It is fascinating to me what can be achieved with just text.  This exercise focused on creating coloured shapes and introduced using variables to change colours at a certain screen size.  I’m really looking forward to what else I will learn on this journey.
+Thoughts: It i[s fascinating to me what can be achieved with just text.  This exercise focused on creating coloured shapes and introduced using variables to change colours at a certain screen size.  I’m really looking forward to what else I will learn on this journey.
 Links to work: https://bit.ly/3Ac8Lj0
-### r1D
+### r1D24
+Progress: Slow progress today, just because there are a lot of tags and I am typing every single tag to ensure I know what I am doing before relying on an editor to assist and speed coding up.
+Thoughts: Glad to be back to web page today, not impressed by the design of this one but it includes blockquotes and grid column layout so that is different.  Still enjoying it all though.
+Links to work: https://bit.ly/3p8kIzJ
+### r1D25
 Progress: 
 Thoughts: 
 Links to work: 
-### r1D
+### r1D26
 Progress: 
 Thoughts: 
 Links to work: 
-### r1D
+### r1D27
 Progress: 
 Thoughts: 
 Links to work: 
-### r1D
+### r1D28
 Progress: 
 Thoughts: 
 Links to work: 
