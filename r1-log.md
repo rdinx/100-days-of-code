@@ -100,9 +100,9 @@ Progress: Slow progress today, just because there are a lot of tags and I am typ
 Thoughts: Glad to be back to web page today, not impressed by the design of this one but it includes blockquotes and grid column layout so that is different.  Still enjoying it all though.
 Links to work: https://bit.ly/3p8kIzJ
 ### r1D25
-Progress: 
-Thoughts: 
-Links to work: 
+Progress: Finished the magazine exercise I had started yesterday, took longer than an hour but I wanted to finish it today as I don't like to stay on the same exercise for too long, I want to keep moving on with new things I liked creating this layout, making use of the flexbox and columns and making it responsive with a number of media queries.
+Thoughts: Just moving along, looking forward to a change from next week.
+Links to work: https://bit.ly/3JO8LZA
 ### r1D26
 Progress: 
 Thoughts: 
