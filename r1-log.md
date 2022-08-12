@@ -104,9 +104,9 @@ Progress: Finished the magazine exercise I had started yesterday, took longer th
 Thoughts: Just moving along, looking forward to a change from next week.
 Links to work: https://bit.ly/3JO8LZA
 ### r1D26
-Progress: 
-Thoughts: 
-Links to work: 
+Progress: I was coding on and off for quite a while today.  I’m not happy with how the first exercise looks (I have finished and passed the required tests but want to work on it again tomorrow).  The second exercise looked like fun so I went ahead and did it too.  It really amazes me what can be done, I would like to know who works our all the mathematical elements though.  This was the first time I had attempted animation in html/css so it was very interesting.
+Thoughts: Coding is hard, something as simple as a spelling mistake or misplaced/forgotten bracket can make you pull your hair out.  On the other hand, you try something new and it works first time, you are elated and want to do more.
+Links to work: https://bit.ly/3zQukEh
 ### r1D27
 Progress: 
 Thoughts: 
