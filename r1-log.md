@@ -108,9 +108,9 @@ Progress: I was coding on and off for quite a while today.  I’m not happy with
 Thoughts: Coding is hard, something as simple as a spelling mistake or misplaced/forgotten bracket can make you pull your hair out.  On the other hand, you try something new and it works first time, you are elated and want to do more.
 Links to work: https://bit.ly/3zQukEh
 ### r1D27
-Progress: 
-Thoughts: 
-Links to work: 
+Progress: Slow progress today - spent around 2.5/3 hours coding.  There is so much duplication and copy/pasting while coding.  Today was a lot for what I thought would be a simple project - it was an animated penguin so it ended up being quite cool.
+Thoughts:  I think from next week I will use an editor, four weeks of coding from scratch in notepad has been very useful to make me know the elements and the correct syntax.  I’m ready to move on now though.
+Links to work: https://bit.ly/3QELoUu
 ### r1D28
 Progress: 
 Thoughts: 
