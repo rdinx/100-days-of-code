@@ -115,7 +115,15 @@ Links to work: https://bit.ly/3QELoUu
 Progress: 
 Thoughts: 
 Links to work: 
-### r1D
+### r1D29
 Progress: 
 Thoughts: 
 Links to work: 
+### r1D30
+Progress: Today I started a new “course” on YouTube - spent most of the time watching however, we did start a bit of code.  I was happy enough though as the end result website looks great.
+Thoughts: Excited to be working on a project rather than smaller exercises.  I am hoping this will reinforce what I have been learning over the last four weeks.
+Links to work: https://bit.ly/3CeG1r8
+### r1D31
+Progress: Continued with the project from yesterday and made good progress.  Finished creating the first page with logo, text, navigation with transition and buttons.  Moved on to create another two sections with text in columns.
+Thoughts: I enjoyed this session today as I ended up with the same output as expected.  I did have a couple of issues which took a while to figure out but again it reminded me how important it is to close tags.
+Links to work: https://bit.ly/3dzPz5K
