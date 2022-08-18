@@ -127,3 +127,7 @@ Links to work: https://bit.ly/3CeG1r8
 Progress: Continued with the project from yesterday and made good progress.  Finished creating the first page with logo, text, navigation with transition and buttons.  Moved on to create another two sections with text in columns.
 Thoughts: I enjoyed this session today as I ended up with the same output as expected.  I did have a couple of issues which took a while to figure out but again it reminded me how important it is to close tags.
 Links to work: https://bit.ly/3dzPz5K
+### r1D32
+Progress: Excellent progress today, finished main structure and content of the website, added some Font Awesome icons and coloured them, finished testimonials section, our clients section and footer with some transitions.  I think the website looks amazing!
+Thoughts: Loving this project, there is so much to it with just adding the content, never mind the structure of the html and then the css to go on top.  There is a lot of copying and pasting too.  Overall I am extremely happy with this project.  I think I am going to tackle my sisters real website next week.
+Links to work: https://bit.ly/3QRQuN7
