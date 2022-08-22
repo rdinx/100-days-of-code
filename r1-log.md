@@ -131,3 +131,23 @@ Links to work: https://bit.ly/3dzPz5K
 Progress: Excellent progress today, finished main structure and content of the website, added some Font Awesome icons and coloured them, finished testimonials section, our clients section and footer with some transitions.  I think the website looks amazing!
 Thoughts: Loving this project, there is so much to it with just adding the content, never mind the structure of the html and then the css to go on top.  There is a lot of copying and pasting too.  Overall I am extremely happy with this project.  I think I am going to tackle my sisters real website next week.
 Links to work: https://bit.ly/3QRQuN7
+### r1Day 33
+Progress: Worked on the website again today - made good progress - nearly finished.  Worked on some animation and responsiveness elements/design.  Very happy with what I have been able to create so far.
+Thoughts: It takes a lot of time to write and test the code (at this stage).  I am looking forward to when I will be much faster.
+Links to work: https://cyclic-makemake-754.notion.site/Day-Thirty-Three-2fb548ce10024daabfaf133c40b2a354
+### r1Day 34
+Progress: Good progress again today - I underestimated how much work there was still to do.  Every piece I add more and more is sinking in.
+Thoughts: Had a few times where my website wouldn’t do what I was expecting it to do.  I am very pleased with myself as I was able to work through the code and figure things out, I even had a different piece of code which worked as well as what the tutor was showing, that gave me a real boost.
+Links to work: https://cyclic-makemake-754.notion.site/Day-Thirty-Four-0d4ea7865d674686a4638f9b4b3c555b
+### r1Day 35
+Progress: Finished the website, it look amazing.  So happy with the masterclass, good pace and great teaching style.
+Thoughts: Really enjoyed taking on this masterclass this week rather than the exercises I had been concentrating on.  It is lovely to see a final product at the end of the day.  Definately gives you more confidence.
+Links to work: 
+### r1Day 36
+Progress: Made good progress today as I worked on grid template areas and got the gist of it, after more than an hour!  Glad it finally sank in.
+Thoughts: I need to keep focusing on these basics before moving on, no point rushing just to get on to the nect big thing without proper foundations.
+Links to work: https://bit.ly/3wmpQV2
+### r1Day 
+Progress: 
+Thoughts: 
+Links to work: 
